@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/skil-test/static/css/main.4be35d99.css",
+    "main.js": "/skil-test/static/js/main.2b89daaa.js",
+    "static/js/787.d5d439af.chunk.js": "/skil-test/static/js/787.d5d439af.chunk.js",
+    "static/media/logo.svg": "/skil-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/skil-test/index.html",
+    "static/media/close.svg": "/skil-test/static/media/close.08d80db0d0eff541e6a6be03cd886774.svg",
+    "static/media/menu.svg": "/skil-test/static/media/menu.19fb64e1e61acba7091499ecd478a55f.svg",
+    "main.4be35d99.css.map": "/skil-test/static/css/main.4be35d99.css.map",
+    "main.2b89daaa.js.map": "/skil-test/static/js/main.2b89daaa.js.map",
+    "787.d5d439af.chunk.js.map": "/skil-test/static/js/787.d5d439af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be35d99.css",
+    "static/js/main.2b89daaa.js"
+  ]
+}
